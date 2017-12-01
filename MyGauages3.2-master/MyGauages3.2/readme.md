@@ -17,7 +17,7 @@ gaugeView.labelColor = UIColor.lightGrayColor()
 gaugeView.gaugeBackgroundColor = UIColor.lightGrayColor()
 ```
 ```
-
+//a
 ## Customization
 These are the customizable properties:
 
